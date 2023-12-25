@@ -3,6 +3,7 @@ package guru.qa;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
+
 public class SimpleJunitTest {
 
     @BeforeEach
@@ -12,6 +13,7 @@ public class SimpleJunitTest {
 
     @Test
     void firstTest() {
+
 
     }
 }
